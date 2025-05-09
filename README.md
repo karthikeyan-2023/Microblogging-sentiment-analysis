@@ -42,7 +42,7 @@ A machine learning project to analyze and classify the sentiment of microblog po
 ## 📦 How to Run
 
 ```bash
-git clone https://github.com/your-username/microblog-sentiment-analysis.git
-cd microblog-sentiment-analysis
+git clone https://github.com/karthikeyan-2023/Microblogging-sentiment-analysis.git
+cd sentiment-analysis
 pip install -r requirements.txt
 python train_model.py
